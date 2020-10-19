@@ -22,7 +22,7 @@ here are some images
 
 ## Run code on your machine
 clone the project and simply run npm commands
-1.npm install
-2.npm start
+1. npm install
+2. npm start
 >this will run app on local sever hit [http://localhost:3000/](http://localhost:3000/) on ur browser
-3.npm run build
+3. npm run build
