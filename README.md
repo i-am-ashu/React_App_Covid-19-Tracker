@@ -1,10 +1,10 @@
-# Covid-19 Tracker :globe_with_meridians:
+# `Covid-19 Tracker` :globe_with_meridians:
 This is `Responsive` web application which tracks **covid-19 _Live_** cases all over the World 
 ## Description
 *Project is build with `React JS and Material-UI` and deployed on `Firebase`*. 
 **It provied COVID19 global data overviews to specific country data on the current outbreak of Influenza**
 
-## :dizzy: Live Demo
+## :dizzy: `Live Demo`
 here's [Live Demo](https://covid-19-tracker-30ce0.web.app/) of Covid-19 Tracker
 
 ## Project Snaps
