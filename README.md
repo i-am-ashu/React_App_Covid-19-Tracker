@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Covid-19 Tracker :globe_with_meridians:
 This is `Responsive` web application which tracks **covid-19 _Live_** cases all over the World 
 ## Description
->*Project is build with `React JS and Material-UI` and deployed on `Firebase`*
+>*Project is build with `React JS and Material-UI` and deployed on `Firebase`*. 
+>**It provied COVID19 global data overviews to specific country data on the current outbreak of Influenza**
 
 ## :dizzy: Live Demo
 here's [Live Demo](https://covid-19-tracker-30ce0.web.app/) of Covid-19 Tracker
@@ -23,6 +24,5 @@ here are some images
 ## Run code on your machine
 clone the project and simply run npm commands
 1. npm install
-2. npm start
->this will run app on local sever hit [http://localhost:3000/](http://localhost:3000/) on ur browser
+2. npm start ( This will run app on local sever hit [http://localhost:3000/](http://localhost:3000/) on ur browser )
 3. npm run build
