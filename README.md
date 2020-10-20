@@ -11,8 +11,8 @@ here's [Live Demo](https://covid-19-tracker-30ce0.web.app/) of Covid-19 Tracker
 ## Project Snaps
 here are some images 
 <br>
-<img src="images/screencapture-covid-19-tracker-30ce0-web-app-2020-10-19-22_26_42.png" height ="100px" width ="200px"/>
-<img src="images/screencapture-covid-19-tracker-30ce0-web-app-2020-10-19-22_12_48.png" height ="100px" width ="200px"/>
+<img src="images/scovid-19-Recovered-cases.png" height ="100px" width ="200px"/>
+<img src="images/covid-19-Deaths-cases.png" height ="100px" width ="200px"/>
 
 ## Used Library/Packages
 - :snowflake: [React JS](https://reactjs.org/)
