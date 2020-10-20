@@ -11,8 +11,8 @@ here's [Live Demo](https://covid-19-tracker-30ce0.web.app/) of Covid-19 Tracker
 ## Project Snaps
 here are some images 
 <br>
-<img src="images/covid-19-Recovered-cases.png" height ="100px" width ="300px"/>
-<img src="images/covid-19-Deaths-cases.png" height ="100px" width ="300px"/>
+<img src="images/covid-19-Recovered-cases.png" height ="200px" width ="300px"/>
+<img src="images/covid-19-Deaths-cases.png" height ="200px" width ="300px"/>
 
 ## Used Library/Packages
 - :snowflake: [React JS](https://reactjs.org/)
@@ -21,6 +21,9 @@ here are some images
 - :fire: [Firebase](https://firebase.google.com/)
 - :earth_americas: [Leafletjs Map](https://leafletjs.com/)
 
+## Covid-19 Data
+the covid-19 data has been pulled from An open :point_right: **[API Disease-sh](https://corona.lmao.ninja/)** for disease-related statistics.
+This API provides a big range of detailed information about multiple viruses
 ## Run code on your machine
 clone the project and simply run npm commands
 1. npm install
