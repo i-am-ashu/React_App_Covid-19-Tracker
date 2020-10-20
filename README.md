@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Covid-19 Tracker :globe_with_meridians:
 This is `Responsive` web application which tracks **covid-19 _Live_** cases all over the World 
 ## Description
@@ -29,3 +28,6 @@ clone the project and simply run npm commands
 1. npm install
 2. npm start ( This will run app on local sever hit [http://localhost:3000/](http://localhost:3000/) on ur browser )
 3. npm run build
+
+## Reviews
+Do like:thumbsup: Hit :star: 
